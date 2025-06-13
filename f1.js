@@ -1,1 +1,2 @@
-hi
+hi 
+consol.log("hi")
